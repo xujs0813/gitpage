@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/xujs0813/gitpage
+url: https://xujs0813.github.io/gitpage
 date_format: "ordinal"
 title: 青山
 subtitle: "我们的口号是：没有八哥"
@@ -11,7 +11,7 @@ keywords: 青山, xujs, 前端民工
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: xujs0813/xujs0813.github.io
+repository: https://github.com/xujs0813/gitpage
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
