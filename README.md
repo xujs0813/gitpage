@@ -9,7 +9,7 @@
 
    网站的配置基本都集中在 \_config.yml 文件中。
 
-   **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
+   **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 [gitalk][3]。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
 
 3. 目录结构
    * \_posts 已发布的博客文章。
@@ -31,3 +31,4 @@
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
+[3]: https://github.com/gitalk/gitalk
