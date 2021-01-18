@@ -35,11 +35,13 @@ viewbox 的坐标系统中，width = 2000(unit) 对应 svg 宽度 400px, 那么�
 以上 svg 内接矩形所定义的数据，都可以通过 * 0.2px 转换单位获得 px 尺寸。 
 
 1. svg 与 viewbox
+
 viewbox 默认与 svg 大小相同。
 当 svg 会将 viewbox 完整地显示在视口内，因此会对 viewbox 进行缩放。当 svg 视口与 viewbox 长宽比相同时，viewbox 将完整显示。
 
 2. [preserveAspectRatio][3]
-当 svg 与 viewbox 长宽比不同时，
+
+当 svg 与 viewbox 长宽比不同时，通过此值设置 viewbox 的显示
 
 ### preserveAspectRatio
 此值声明了 viewbox 的显示如何确定。
