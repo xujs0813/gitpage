@@ -24,6 +24,12 @@
 5. 排版
    [中文文案排版指北（简体中文版）][1]
 
+6. 命令行辅助
+```
+yarn draft [filename]  // 在 ./_draft 下创建 filename.md 文件
+yarn post [filename]   // 在 ./_posts 下创建 filename.md 文件
+```
+
 ## 致谢
 
 本博客基于 [mzlogin](https://github.com/mzlogin/mzlogin.github.io) 定制，感谢！

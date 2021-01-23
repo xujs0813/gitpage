@@ -1,0 +1,28 @@
+{
+  "name": "gitpage",
+  "version": "1.0.0",
+  "description": "### Something should to know 1. 域名。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "draft": "gulp --draft --name",
+    "post": "gulp --post --name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xujs0813/gitpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xujs0813/gitpage/issues"
+  },
+  "homepage": "https://github.com/xujs0813/gitpage#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-rename": "^2.0.0",
+    "minimist": "^1.2.5"
+  }
+}
