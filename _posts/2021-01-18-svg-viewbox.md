@@ -1,7 +1,7 @@
 ---
 layout: post
 title: svg 中 viewbox 的基本概念
-categories: [svg]
+categories: [SVG]
 description: 工作中大量应用到 svg ，应该做个全面的学习与总结。本文分析 viewbox 。
 keywords: svg, viewbox
 ---

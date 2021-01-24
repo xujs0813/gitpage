@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 简单做个模块加载器吧*_*
-categories: [require, exports]
+categories: [webpack]
 description: es6模块被 babel 转义后，提示缺少 reqire 函数。探索之...
 keywords: babel, require
 ---
